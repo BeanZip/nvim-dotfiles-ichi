@@ -334,6 +334,7 @@ require('lazy').setup({
       'stevearc/resession.nvim', -- Optional, for persistent history
     },
   },
+  { 'saecki/crates.nvim', opts = {} },
   -- NOTE: Plugins can also be added by using a table,
   -- with the first argument being the link and the following
   -- keys can be used to configure plugin behavior/loading/etc.
